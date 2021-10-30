@@ -1,0 +1,33 @@
+h1{
+    text-align: center;
+}
+.header {
+    display:flex;
+    flex-direction: column;
+    background: red;
+    color:white;
+}
+
+.navbar {
+    display:flex;
+    background-color: coral;
+    color:white;
+    justify-content:center;
+}
+
+.nav-item {
+    margin: 5px
+}
+
+.main{
+    background-color:green;
+}
+
+.article{
+    background-color: cornflowerblue;
+    color:white;
+}
+.footer{
+    background-color: blueviolet;
+    color:white;
+}
